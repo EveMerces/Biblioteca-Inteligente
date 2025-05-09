@@ -13,7 +13,11 @@
 - 👥 **Gerenciamento de Usuários**: Controle o cadastro de usuários e suas atividades na biblioteca.
 - 🔍 **Consultas Avançadas**: Utilize filtros para encontrar livros por autor, gênero, ou disponibilidade.
 - 🖥️ **Interface Simples**: Interaja com o sistema através de uma interface de linha de comando intuitiva.
-
+- 👨‍💻 Integrantes
+• Evelyn Merces
+• Paula S
+• Paulo Henrique
+• Alex
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
