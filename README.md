@@ -16,9 +16,9 @@
 - 
 ## 👨‍💻 Integrantes
 • Evelyn Merces
-• Paula S
+• Paula S.
 • Paulo Henrique
-• Alex
+• Alex Junior 
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
