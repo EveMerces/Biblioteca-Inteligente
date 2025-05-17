@@ -34,7 +34,7 @@ Controla os registros de empréstimos de livros, incluindo datas e ligação ent
 ### `Livro_Autor`
 Tabela associativa para representar a relação muitos-para-muitos entre livros e autores.
 ---------------------------------------------------------------------------------------------------------------------------
-🔧 Funcionalidades Principais
+## 🔧 Funcionalidades Principais
 Cadastro e atualização de clientes, autores e livros.
 
 Registro e devolução de empréstimos.
@@ -43,7 +43,7 @@ Associação entre livros e autores.
 
 Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento).
 --------------------------------------------------------------------------------------------------------------------------
-👥 Nome dos Integrantes
+## 👥 Nome dos Integrantes
 - Evelyn Mercês
 - Paula Silveira
 - Alex
