@@ -49,7 +49,7 @@ Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento).
 ## 👥 Nome dos Integrantes
 - Evelyn Mercês
 - Paula Silveira
-- Alex
+- Alex Junior
 - Paulo Henrique
 - 
 ## ▶️ Como Executar
