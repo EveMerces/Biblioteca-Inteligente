@@ -1,17 +1,18 @@
 # Biblioteca Inteligente
 
 ## 📝 Descrição
-**Biblioteca Inteligente** é um sistema de gerenciamento de biblioteca desenvolvido em Python, utilizando SQLAlchemy e SQLite. O projeto facilita o gerenciamento de livros, autores e usuários, oferecendo funcionalidades para inserção, atualização, exclusão e consulta de registros.
-
+**Biblioteca Inteligente** é um sistema de gerenciamento de biblioteca desenvolvido em Python, utilizando SQLAlchemy e SQLite. 
+----------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Estrutura do Projeto
 - `biblioteca.py`: Configuração inicial do SQLAlchemy e SQLite.
-- `Especificação do Projeto.pdf`: Documento com a especificação completa do projeto.
+- `Especificação do Projeto.pdf`: [Especificação do Projeto. Sistema de Gerenciamento com POO e SQLAlchemy.pdf](https://github.com/user-attachments/files/20265948/Especificacao.do.Projeto.Sistema.de.Gerenciamento.com.POO.e.SQLAlchemy.pdf)
 
+----------------------------------------------------------------------------------------------------------------------------
 # 📚 Sistema de Gerenciamento de Biblioteca
 
 O sistema tem como objetivo gerenciar uma biblioteca, incluindo o cadastro de livros, autores, clientes e o controle de empréstimos. Através de um modelo orientado a objetos e utilizando SQLAlchemy para persistência, é possível simular operações básicas de um sistema bibliotecário.
 
----
+----------------------------------------------------------------------------------------------------------------------------
 
 ## 🧩 Descrição das Classes
 
@@ -42,6 +43,11 @@ Associação entre livros e autores.
 
 Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento).
 --------------------------------------------------------------------------------------------------------------------------
+👥 Nome dos Integrantes
+- Evelyn Mercês
+- Paula Silveira
+- Alex
+- Paulo Henrique
 ## ▶️ Como Executar
 
 1. **Pré-requisitos:**
