@@ -7,9 +7,7 @@
 - `biblioteca.py`: Configuração inicial do SQLAlchemy e SQLite.
 - `Especificação do Projeto.pdf`: Documento com a especificação completa do projeto.
 
-# Sistema de Gerenciamento de Biblioteca
-
-## 📚 Tema do Sistema
+# 📚 Sistema de Gerenciamento de Biblioteca
 
 O sistema tem como objetivo gerenciar uma biblioteca, incluindo o cadastro de livros, autores, clientes e o controle de empréstimos. Através de um modelo orientado a objetos e utilizando SQLAlchemy para persistência, é possível simular operações básicas de um sistema bibliotecário.
 
