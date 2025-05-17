@@ -15,6 +15,8 @@ O sistema tem como objetivo gerenciar uma biblioteca, incluindo o cadastro de li
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## 🧩 Descrição das Classes
+### 'Biblioteca'
+Classe de controle (controller), gerencia as classes autor, cliente, livro, emprestimo, livro_autor. Ela é responsavel por ##criar os objetos dessas classes e ##listar os objetos.
 
 ### `Pessoa` (classe abstrata)
 Classe base para `Autor` e `Cliente`. Contém atributos comuns como matrícula, nome, documento, data de nascimento, e-mail e telefone.
@@ -42,13 +44,14 @@ Registro e devolução de empréstimos.
 
 Associação entre livros e autores.
 
-Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento).
+Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento). ## Revisar
 --------------------------------------------------------------------------------------------------------------------------
 ## 👥 Nome dos Integrantes
 - Evelyn Mercês
 - Paula Silveira
 - Alex
-- Paulo Henrique 
+- Paulo Henrique
+- 
 ## ▶️ Como Executar
 
 1. **Pré-requisitos:**
