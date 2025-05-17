@@ -44,7 +44,7 @@ Registro e devolução de empréstimos.
 
 Associação entre livros e autores.
 
-Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento). ## Revisar
+Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento). ## 'Revisar'
 --------------------------------------------------------------------------------------------------------------------------
 ## 👥 Nome dos Integrantes
 - Evelyn Mercês
