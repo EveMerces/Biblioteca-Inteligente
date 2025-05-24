@@ -6,6 +6,10 @@
 ## 🛠️ Estrutura do Projeto
 - `biblioteca.py`: Configuração inicial do SQLAlchemy e SQLite.
 - `Especificação do Projeto.pdf`: [Especificação do Projeto. Sistema de Gerenciamento com POO e SQLAlchemy.pdf](https://github.com/user-attachments/files/20265948/Especificacao.do.Projeto.Sistema.de.Gerenciamento.com.POO.e.SQLAlchemy.pdf)
+Ferramenta	Ícone
+Python	!Python
+SQLAlchemy	!SQLAlchemy
+SQLite	!SQLite
 
 ----------------------------------------------------------------------------------------------------------------------------
 # 📚 Sistema de Gerenciamento de Biblioteca
