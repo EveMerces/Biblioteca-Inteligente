@@ -47,10 +47,10 @@ Associação entre livros e autores.
 Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento).bRevisar
 --------------------------------------------------------------------------------------------------------------------------
 ## 👥 Nome dos Integrantes
-- Evelyn Mercês
-- Paula Silveira
-- Alex Junior
-- Paulo Henrique
+- Evelyn Mercês da Silva- RA: 2404227
+- Paula Silveira e Silva- RA: 2402756
+- Alex Manoel dos Santos Junio- RA: 1701381
+- Paulo Henrique Pires Cordeiro- RA: 2402602
 - 
 ## ▶️ Como Executar
 
