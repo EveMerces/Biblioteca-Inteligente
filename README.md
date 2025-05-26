@@ -50,7 +50,6 @@ Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento).
 - Paula Silveira e Silva- RA: 2402756
 - Alex Manoel dos Santos Junio- RA: 1701381
 - Paulo Henrique Pires Cordeiro- RA: 2402602
-- 
 ## ▶️ Como Executar
 
 1. **Pré-requisitos:**
