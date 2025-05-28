@@ -6,6 +6,7 @@
 ## 🛠️ Estrutura do Projeto
 - `biblioteca.py`: Configuração inicial do SQLAlchemy e SQLite.
 - `Especificação do Projeto.pdf`: [Especificação do Projeto. Sistema de Gerenciamento com POO e SQLAlchemy.pdf](https://github.com/user-attachments/files/20265948/Especificacao.do.Projeto.Sistema.de.Gerenciamento.com.POO.e.SQLAlchemy.pdf)
+- `Repositório`: (https://github.com/EveMerces/Biblioteca-Inteligente)
 ----------------------------------------------------------------------------------------------------------------------------
 # 📚 Sistema de Gerenciamento de Biblioteca
 
@@ -15,7 +16,7 @@ O sistema tem como objetivo gerenciar uma biblioteca, incluindo o cadastro de li
 
 ## 🧩 Descrição das Classes
 ### `Biblioteca`
-Classe de controle (controller), gerencia as classes autor, cliente, livro, emprestimo, livro_autor. Ela é responsavel por ##criar os objetos dessas classes e ##listar os objetos.
+Classe de controle (controller), gerencia as classes autor, cliente, livro, emprestimo, livro_autor. Ela é responsavel por *criar* os objetos dessas classes e *listar* os objetos.
 
 ### `Pessoa` (classe abstrata)
 Classe base para `Autor` e `Cliente`. Contém atributos comuns como matrícula, nome, documento, data de nascimento, e-mail e telefone.
@@ -43,7 +44,7 @@ Registro e devolução de empréstimos.
 
 Associação entre livros e autores.
 
-Listagem de empréstimos por cliente e de livros por autor (em desenvolvimento).bRevisar
+Listagem de empréstimos por cliente e de livros por autor
 --------------------------------------------------------------------------------------------------------------------------
 ## 👥 Nome dos Integrantes
 - Evelyn Mercês da Silva- RA: 2404227
