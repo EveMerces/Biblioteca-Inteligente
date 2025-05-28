@@ -67,22 +67,9 @@ Listagem de empréstimos por cliente e de livros por autor.
 ## ▶️ Como Executar
 
 1. **Pré-requisitos:**
-   
-                              Python 3.10+
-   
 
-![PYTHON CORRETO](https://github.com/user-attachments/assets/bb874dfd-363b-42b3-86a0-dc87e385db1a)
-
-
-
-                               SQLAlchemy
-
-                          
-  ![sql alchemy](https://github.com/user-attachments/assets/e0e64fde-66d8-4017-b5f3-cfba6d902fdd)
-
-
-  
-  
+- Python 3.10+
+- SQLAlchemy 
 - Biblioteca `base.py` com a configuração do `Base` declarativo
 
 1. **Passos para execução:**
