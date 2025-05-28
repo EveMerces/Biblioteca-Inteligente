@@ -70,7 +70,8 @@ Listagem de empréstimos por cliente e de livros por autor.
    
                               Python 3.10+
    
-![python biblioteca](https://github.com/user-attachments/assets/3de211e3-9772-45e3-b74f-04da481afa8a)
+
+![PYTHON CORRETO](https://github.com/user-attachments/assets/bb874dfd-363b-42b3-86a0-dc87e385db1a)
 
 
 
