@@ -15,7 +15,7 @@ O sistema tem como objetivo gerenciar uma biblioteca, incluindo o cadastro de li
 
 ## 🧩 Descrição das Classes
 ### `Biblioteca`
-Classe de controle (controller), gerencia as classes autor, cliente, livro, emprestimo, livro_autor. Ela é responsavel por ##criar os objetos dessas classes e ##listar os objetos.
+Classe de controle (controller), gerencia as classes autor, cliente, livro, emprestimo, livro_autor. Ela é responsavel por *criar* os objetos dessas classes e *listar* os objetos.
 
 ### `Pessoa` (classe abstrata)
 Classe base para `Autor` e `Cliente`. Contém atributos comuns como matrícula, nome, documento, data de nascimento, e-mail e telefone.
