@@ -68,11 +68,19 @@ Listagem de empréstimos por cliente e de livros por autor.
 
 1. **Pré-requisitos:**
    
-| Python 3.10+
+                          Python 3.10+
+   
 ![python biblioteca](https://github.com/user-attachments/assets/3de211e3-9772-45e3-b74f-04da481afa8a)
 
-- SQLAlchemy
+
+
+                          SQLAlchemy
+
+                          
   ![sql alchemy](https://github.com/user-attachments/assets/e0e64fde-66d8-4017-b5f3-cfba6d902fdd)
+
+
+  
   
 - Biblioteca `base.py` com a configuração do `Base` declarativo
 
