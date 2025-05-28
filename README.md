@@ -53,7 +53,7 @@ Registro e devolução de empréstimos.
 
 Associação entre livros e autores.
 
-Listagem de empréstimos por cliente e de livros por autor
+Listagem de empréstimos por cliente e de livros por autor.
 
 --------------------------------------------------------------------------------------------------------------------------
 ## 👥 Nome dos Integrantes
@@ -68,9 +68,9 @@ Listagem de empréstimos por cliente e de livros por autor
    
 | Linguagem   | Ícone  |
 |------------|--------|
-| Python 3.10+ |   ![PYTHON] ([Python-logo-notext.svg](http://commons.wikimedia.org/wiki/File:Python-logo-notext.svg)) |
-| SQLAlchemy   |   ![SQLALCHEMY]([SQLAlchemy.svg](http://commons.wikimedia.org/wiki/File:SQLAlchemy.svg)) |
+| Python 3.10+ | ![PYTHON](http://commons.wikSQLALCHEMY |
 
+- SQLAlchemy
 
 - Biblioteca `base.py` com a configuração do `Base` declarativo
 
