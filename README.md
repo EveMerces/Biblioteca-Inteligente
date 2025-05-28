@@ -1,5 +1,14 @@
 # Biblioteca Inteligente
 
+
+
+
+![biblioteca](https://github.com/user-attachments/assets/20e75b36-08b7-40c2-babc-c92c39e7fa7d)
+
+
+
+
+
 ## 📝 Descrição
 **Biblioteca Inteligente** é um sistema de gerenciamento de biblioteca desenvolvido em Python, utilizando SQLAlchemy e SQLite. 
 ----------------------------------------------------------------------------------------------------------------------------
