@@ -15,7 +15,7 @@
 ## 🛠️ Estrutura do Projeto
 - `biblioteca.py`: Configuração inicial do SQLAlchemy e SQLite.
 - `Especificação do Projeto.pdf`: [Especificação do Projeto. Sistema de Gerenciamento com POO e SQLAlchemy.pdf](https://github.com/user-attachments/files/20265948/Especificacao.do.Projeto.Sistema.de.Gerenciamento.com.POO.e.SQLAlchemy.pdf)
-- `Repositório`: (https://github.com/EveMerces/Biblioteca-Inteligente)
+- `Repositório`: https://github.com/EveMerces/Biblioteca-Inteligente
 ----------------------------------------------------------------------------------------------------------------------------
 # 📚 Sistema de Gerenciamento de Biblioteca
 
@@ -65,13 +65,27 @@ Listagem de empréstimos por cliente e de livros por autor
 
 1. **Pré-requisitos:**
    - Python 3.10+
+
+
+![python biblioteca](https://github.com/user-attachments/assets/2db08457-9b73-496c-bf98-f23ddecdae35)
+
+
+
+
+
    - SQLAlchemy
+  
+![sql alchemy](https://github.com/user-attachments/assets/ffb65364-7a6b-49bb-8bdb-c20ed4343213)
+
+
+
+
+
    - Biblioteca `base.py` com a configuração do `Base` declarativo
 
-2. **Passos para execução:**
-   - Configure a conexão com o banco de dados no arquivo principal.
-   - Importe as classes necessárias.
-   - Utilize as classes para realizar inserções e consultas utilizando SQLAlchemy.
+1. **Passos para execução:**
+   - Criação do banco de dados
+   - Criação das tabelas
 
    ```bash
    pip install sqlalchemy
