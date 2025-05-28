@@ -49,9 +49,11 @@ Tabela associativa para representar a relação muitos-para-muitos entre livros 
 ## 🔧 Funcionalidades Principais
 Cadastro e atualização de clientes, autores e livros.
 
-Registro e devolução de empréstimos.
+Emprestar e devolver livros.
 
 Associação entre livros e autores.
+
+Listagem e remoção de clientes, autores, livros e emprestimos.
 
 Listagem de empréstimos por cliente e de livros por autor.
 
@@ -66,12 +68,8 @@ Listagem de empréstimos por cliente e de livros por autor.
 
 1. **Pré-requisitos:**
    
-| Linguagem   | Ícone  |
-|------------|--------|
-| Python 3.10+ | ![PYTHON](http://commons.wikSQLALCHEMY |
-
+| Python 3.10+ 
 - SQLAlchemy
-
 - Biblioteca `base.py` com a configuração do `Base` declarativo
 
 1. **Passos para execução:**
