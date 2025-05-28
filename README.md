@@ -66,10 +66,10 @@ Listagem de empréstimos por cliente e de livros por autor
 
 1. **Pré-requisitos:**
    
-   | Linguagem   | Ícone  |
+| Linguagem   | Ícone  |
 |------------|--------|
-| Python 3.10+       | ![PYTHON](Python-logo-notext.svg) |
-| SQLAlchemy        | ![SQLALCHEMY](SQLAlchemy.svg) |
+| Python 3.10+ |   ![PYTHON](Python-logo-notext.svg) |
+| SQLAlchemy   |   ![SQLALCHEMY](SQLAlchemy.svg) |
 
 
 - Biblioteca `base.py` com a configuração do `Base` declarativo
