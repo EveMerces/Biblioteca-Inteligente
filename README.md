@@ -65,24 +65,14 @@ Listagem de empréstimos por cliente e de livros por autor
 ## ▶️ Como Executar
 
 1. **Pré-requisitos:**
-   - Python 3.10+
+   
+   | Linguagem   | Ícone  |
+|------------|--------|
+| Python 3.10+       | ![PYTHON](Python-logo-notext.svg) |
+| SQLAlchemy        | ![SQLALCHEMY](SQLAlchemy.svg) |
 
 
-![python biblioteca](https://github.com/user-attachments/assets/2db08457-9b73-496c-bf98-f23ddecdae35)
-
-
-
-
-
-   - SQLAlchemy
-  
-![sql alchemy](https://github.com/user-attachments/assets/ffb65364-7a6b-49bb-8bdb-c20ed4343213)
-
-
-
-
-
-   - Biblioteca `base.py` com a configuração do `Base` declarativo
+- Biblioteca `base.py` com a configuração do `Base` declarativo
 
 1. **Passos para execução:**
    - Criação do banco de dados
