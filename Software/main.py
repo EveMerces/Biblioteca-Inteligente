@@ -405,7 +405,7 @@ def menu_emprestimos():
             
             if opcao == 1:
                 try:
-                    id_emprestimo = int(input('\nDDigite 0 para listar todos os Empréstimos ou ID para listar o Empréstimo: '))
+                    id_emprestimo = int(input('\nDigite 0 para listar todos os Empréstimos ou ID para listar o Empréstimo: '))
                 except ValueError:
                     print('\nID do Empréstimo no formato incorreto! Devem ser um número inteiro.')
                     return
